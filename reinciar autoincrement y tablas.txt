@@ -1,0 +1,26 @@
+delete from autorizar;
+delete from autoriza_tres;
+DELETE FROM autoriza_dos;
+DELETE FROM cancelado;
+DELETE from compras;
+delete FROM correos;
+DELETE from rechazado;
+DELETE FROM reenvio;
+delete from rq_requisiciond;
+DELETE FROM rq_seguimiento;
+DELETE from rq_requisicione;
+DELETE 	FROM usuario;
+
+
+ALTER TABLE autorizar AUTO_INCREMENT= 1;
+ALTER TABLE autoriza_dos AUTO_INCREMENT= 1;
+ALTER TABLE autoriza_tres AUTO_INCREMENT= 1;
+ALTER TABLE cancelado AUTO_INCREMENT= 1;
+ALTER TABLE compras AUTO_INCREMENT= 1;
+ALTER TABLE correos AUTO_INCREMENT= 1;
+ALTER TABLE rechazado AUTO_INCREMENT= 1;
+ALTER TABLE reenvio AUTO_INCREMENT= 1;
+ALTER TABLE rq_requisiciond AUTO_INCREMENT= 1;
+ALTER TABLE rq_seguimiento AUTO_INCREMENT= 1;
+ALTER TABLE usuario AUTO_INCREMENT= 1;
+ALTER TABLE rq_requisicione AUTO_INCREMENT= 1;
