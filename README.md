@@ -49,7 +49,7 @@ RECEPCIÓN
                Rproducto.php                     =>Recepción del producto (paso final).
                
 
-ERIFICACIÓN
+VERIFICACIÓN
 
                Vproducto.php                     =>Verificar productos agregados.
                
