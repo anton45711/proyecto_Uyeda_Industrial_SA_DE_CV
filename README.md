@@ -16,7 +16,7 @@ CONSULTAS
                 Concompradas.php          =>Consultas generales de los productos ya comprados.
                 Confinanzas.php           =>Consultas generales del área de finanzas.
                 Conjefe.php               =>Consultas generales del área de jéfes.
-                Crequisicion.php          =>Creacion generales de la requisición.
+                Crequisicion.php          =>Creación generales de la requisición.
 
 FUNCIONES PRINCIPALES 
 
@@ -33,12 +33,12 @@ IMPRESIONES
                 
 MODIFICACIONES         
          
-                ModRecibo.php            =>Pagína para modificar recibo.
-                ModnumOC.php             =>Pagína para Módificar orden de compra.
-                ModnumOCdos.php          =>Pagína para Módificar compra dos.
-                ModnumOCdos.php          =>Pagína para Módificar número de orden de comprados.
-                Mproducto.php            =>Pagína para Módificar producto. 
-                Mrequisicion.php         =>Pagína para Módificar requisición.
+                ModRecibo.php            =>Pagína para módificar recibo.
+                ModnumOC.php             =>Pagína para módificar orden de compra.
+                ModnumOCdos.php          =>Pagína para módificar compra dos.
+                ModnumOCdos.php          =>Pagína para módificar número de orden de comprados.
+                Mproducto.php            =>Pagína para módificar producto. 
+                Mrequisicion.php         =>Pagína para módificar requisición.
                
 REGISTRO
 
