@@ -33,12 +33,12 @@ IMPRESIONES
                 
 MODIFICACIONES         
          
-                ModRecibo.php            =>pagína para modificar recibo.
-                ModnumOC.php             =>pagína para Módificar orden de compra.
-                ModnumOCdos.php          =>pagína para Módificar compra dos.
-                ModnumOCdos.php          =>pagína para Módificar número de orden de comprados.
-                Mproducto.php            =>pagína para Módificar producto. 
-                Mrequisicion.php         =>pagína para Módificar requisición.
+                ModRecibo.php            =>Pagína para modificar recibo.
+                ModnumOC.php             =>Pagína para Módificar orden de compra.
+                ModnumOCdos.php          =>Pagína para Módificar compra dos.
+                ModnumOCdos.php          =>Pagína para Módificar número de orden de comprados.
+                Mproducto.php            =>Pagína para Módificar producto. 
+                Mrequisicion.php         =>Pagína para Módificar requisición.
                
 REGISTRO
 
@@ -90,14 +90,14 @@ MENUS
 APARTADOS
 
 
-             index.html                 =>inicio principal del proyecto.                 
+             index.html                 =>Inicio principal del proyecto.                 
              head.html                  =>Cabecera del proyecto.
              
 
 PRINCIPAL
 
 
-            principal.php              =>son todas las requisiciones por usuario .
+            principal.php              =>Son todas las requisiciones por usuario .
             
 
 VALIDACIONES
