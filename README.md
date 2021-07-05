@@ -100,9 +100,9 @@ PRINCIPAL
             principal.php              =>Son todas las requisiciones por usuario .
             
 
-VALIDACIONES
+VALIDACIÓNES
 
-            validar.js                =>Validaciones del proyecto por funciones.
+            validar.js                =>Validaciónes del proyecto por funciones.
             
 
 
